@@ -1,5 +1,5 @@
-// Adam Dannaoui 
-// Will compute the cost of the items purchased including a 6% sales tax
+// Adam Dannaoui hw02 9/8/15
+// Will compute the cost of the items purchased including and excluding a 6% sales tax
   public class Arithetic{ 
   public static void main (String[]args){
   int nSocks=3; 
@@ -45,7 +45,7 @@
   System.out.println("the total cost before taxes is"+ totalInitialCost$+ "$");
   //Printing the statement for the total initial cost before taxes
   double totalFinalCost$=(endEnCost$+endGlCost$+endSoCost$);
-  //Declarinf the formula for findinf the total final cost 
+  //Declaring the formula for finding the total final cost 
   System.out.println("total cost of the purchases is" + totalFinalCost$ + "$");
   //Printing the statement for the total final cost 
     }
