@@ -1,4 +1,4 @@
-//Adam Dannaoui 9/17/15 lab 04 
+//Adam Dannaoui 9/28/15 lab 05 
 //Will be creating a calculator program that can compute the following
 //a+b a*b a-b and a/b (a and b both being integers provided by the user)
 //Your calculator should ask user for input until they reply “n” or “N”
